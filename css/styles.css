@@ -311,6 +311,7 @@ footer {
 
 .name {
   text-align: center;
+  margin-bottom: 8px;
 }
 
 .employement {
@@ -385,8 +386,12 @@ footer {
   margin-bottom: 72px;
 }
 
-.section-portfolio .name,
-.employement {
-  text-align: start;
+.activity {
   margin-left: 16px;
+  margin-bottom: 8px;
+}
+
+.work {
+  margin-left: 16px;
+  margin-bottom: 32px;
 }
