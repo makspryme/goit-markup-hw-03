@@ -319,6 +319,10 @@ footer {
   margin-right: 24px;
 }
 
+.team-cards h3 {
+  margin-bottom: 8px;
+}
+
 .team-cards:last-of-type {
   margin-right: 0;
 }
